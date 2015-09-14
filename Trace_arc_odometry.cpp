@@ -15,7 +15,7 @@
 //#include <ev3_services/Gostraight.h>
 #include <ev3_services/Trace_arc.h>
 #include <stdio.h>
-//I dhould create an srv file and add the header file here
+//I should create an srv file and add the header file here
 using namespace std;
 using namespace ev3dev;
 //using ev3_services::Gostraight;
